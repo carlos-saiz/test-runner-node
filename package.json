@@ -1,0 +1,20 @@
+{
+  "name": "test-runner-node",
+  "version": "1.0.0",
+  "description": "Bienvenid@s al mundo de testing, ahora vaís a empezar a hacer vuestro primer test de funciones de JavaScript:",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlos-saiz/test-runner-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlos-saiz/test-runner-node/issues"
+  },
+  "homepage": "https://github.com/carlos-saiz/test-runner-node#readme"
+}
